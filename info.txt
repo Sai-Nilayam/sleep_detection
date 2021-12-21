@@ -1,0 +1,8 @@
+For making a sleep detection system.
+
+Approach
+--------
+1. Extrac human Face using YOLO.
+2. Extract eyes using YOLO.
+3. Classify if opened or closed.
+4. Pop the output as 0 of 1.
